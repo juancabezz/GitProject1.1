@@ -15,7 +15,7 @@ public class DemoDay2 {
 	// subtract
 	public static void substract(int a, int b) {
 		System.out.println(a - b);
-
+	}
 		//Divide method Yasir
 	public static void divide (int a, int b) {
 		System.out.println(a/b);
