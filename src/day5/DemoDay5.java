@@ -6,6 +6,10 @@ public class DemoDay5 {
 		
 		System.out.println("Today's weather is 95F in Tampa, Florida...");
 	}
+	
+	public void getInfo() {
+		System.out.println("Weather info added...");
+	}
 
 	public void getData() {
 		System.out.println("Forecast weather for this week is sunny");
